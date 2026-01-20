@@ -20,11 +20,11 @@ Eğer kodları incelemek, değiştirmek veya Visual Studio üzerinden çalışt�
 1.  **Projeyi Klonlayın:**
     Terminali açın ve aşağıdaki komutu girin:
     ```bash
-    git clone [https://github.com/yagizdll/Password-Generator.git](https://github.com/yagizdll/Password-Generator.git)
+    git clone https://github.com/yagizdll/Password-Generator.git
     ```
 
 2.  **Projeyi Açın:**
-    * İndirdiğiniz klasördeki `PasswordGenerator.sln` dosyasına çift tıklayın.
+    * İndirdiğiniz klasördeki `PasswordGenerator.slnx` dosyasına çift tıklayın.
     * Proje **Visual Studio** üzerinde açılacaktır.
 
 3.  **Başlatın:**
@@ -37,7 +37,7 @@ Eğer kodları incelemek, değiştirmek veya Visual Studio üzerinden çalışt�
 2.  **Projeyi Klonlayın:**
     Terminali açın ve aşağıdaki komutu girin:
     ```bash
-    git clone [https://github.com/yagizdll/Password-Generator.git](https://github.com/yagizdll/Password-Generator.git)
+    git clone https://github.com/yagizdll/Password-Generator.git
     ```
 
 3.  **Projeyi Derleyin ve Çalıştırın:**
