@@ -14,7 +14,7 @@ Bu proje, C# kullanılarak geliştirilmiş güvenli ve karmaşık şifreler olu�
 
 ## 🛠️ Kurulum ve Çalıştırma
 
-### Yöntem 1: Kaynak Kod ile Kurulum (Geliştiriciler İçin) (Visual Studio ile)
+### Yöntem 1: Kaynak Kod ile Kurulum (Visual Studio ile)
 Eğer kodları incelemek, değiştirmek veya Visual Studio üzerinden çalıştırmak istiyorsanız:
 
 1.  **Projeyi Klonlayın:**
@@ -29,7 +29,7 @@ Eğer kodları incelemek, değiştirmek veya Visual Studio üzerinden çalışt�
 
 3.  **Başlatın:**
     * Klavyeden `F5` tuşuna basın veya üst menüdeki yeşil **"Start"** butonuna tıklayın.
-### Yöntem 2: Kaynak Kod ile Kurulum (Geliştiriciler İçin) (dotnet ile)
+### Yöntem 2: Kaynak Kod ile Kurulum (dotnet ile)
 
 1.	**Gereksinim**
 	* Download .NET yazarak Microsoft'un sitesinden indirebilirsiniz.
